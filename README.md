@@ -1,1 +1,1 @@
-Este es un taller de introducción a la coomputación cuántica. 
+Este es un taller de introducción a la computación cuántica. 
